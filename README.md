@@ -5,7 +5,7 @@ Java version of weibei-lib
 
 Please open an issue with any questions/suggestions.
 
-This is the Java library for Weibei open platform.  
+This is the Java library for Weibei open platform.  Please ask for activation kit before compilation.
 
 ### Current status
   
